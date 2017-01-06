@@ -1,0 +1,16 @@
+{
+  "name": "alexa-skill-sample",
+  "version": "0.0.1",
+  "description": "",
+  "main": "alexa.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "zip -r alexa.zip *",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaun Warman",
+  "license": "ISC"
+}

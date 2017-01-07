@@ -1,7 +1,7 @@
 {
   "name": "charter-bus-skill",
   "version": "0.0.1",
-  "description": "",
+  "description": "A charter bus fantasy league alexa skill",
   "main": "alexa.js",
   "dependencies": {
     "alexa-sdk": "^1.0.6",

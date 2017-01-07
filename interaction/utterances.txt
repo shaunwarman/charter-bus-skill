@@ -1,3 +1,26 @@
+charterBusMotto motto
+charterBusMotto charter bus motto
+charterBusMotto the charter bus motto
+charterBusMotto what is the charter bus motto
+charterBusMotto tell me the charter bus motto
+
+numberOfChampionships {name} championships
+numberOfChampionships {name} number of championships
+numberOfChampionships championships for {name}
+numberOfChampionships number of championships for {name}
+numberOfChampionships how many championships for {name}
+numberOfChampionships how many championships does {name} have
+
+getRandomFact fact
+getRandomFact story
+getRandomFact random fact
+getRandomFact random story
+getRandomFact tell me a story
+getRandomFact tell me a random story
+getRandomFact tell me a fact
+getRandomFact tell me a random fact
+
+// TODO
 readPost read me a post
 
 playPodcast play me a podcast (plays one of our podcasts)

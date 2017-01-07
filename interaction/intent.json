@@ -1,0 +1,25 @@
+{
+   "intents":[
+      {
+         "intent":"CustomIntentWithSlots",
+         "slots":[
+            {
+               "name":"day",
+               "type":"AMAZON.DATE"
+            }
+         ]
+      },
+      {
+         "intent":"getRandomFact"
+      },
+      {
+         "intent":"AMAZON.SearchAction<object@WeatherForecast>"
+      },
+      {
+         "intent":"AMAZON.HelpIntent"
+      },
+      {
+         "intent":"AMAZON.StopIntent"
+      }
+   ]
+}

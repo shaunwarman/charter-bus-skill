@@ -1,0 +1,9 @@
+readPost read me a post
+
+playPodcast play me a podcast (plays one of our podcasts)
+
+findUserStats various player records and statistics (scrape from Ben’s spreadsheet)
+
+draftPick draft order, who drafted who and what overall pick
+
+playerProjections feed to roto world or ESPN for projections

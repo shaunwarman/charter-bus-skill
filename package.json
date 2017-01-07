@@ -1,10 +1,11 @@
 {
-  "name": "alexa-skill-sample",
+  "name": "charter-bus-skill",
   "version": "0.0.1",
   "description": "",
   "main": "alexa.js",
   "dependencies": {
-    "alexa-sdk": "^1.0.6"
+    "alexa-sdk": "^1.0.6",
+    "charter-bus-stats": "0.0.1"
   },
   "devDependencies": {},
   "scripts": {

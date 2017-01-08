@@ -1,11 +1,24 @@
 {
    "intents":[
       {
-         "intent":"CustomIntentWithSlots",
+         "intent":"numberOfChampionships",
          "slots":[
             {
-               "name":"day",
-               "type":"AMAZON.DATE"
+               "name": "name",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent":"matchupHistory",
+         "slots":[
+            {
+               "name": "team",
+               "type": "string"
+            },
+            {
+               "name": "opponent",
+               "type": "string"
             }
          ]
       },
@@ -13,10 +26,13 @@
          "intent":"getRandomFact"
       },
       {
-         "intent":"AMAZON.SearchAction<object@WeatherForecast>"
+         "intent":"getRandomFact"
       },
       {
          "intent":"AMAZON.HelpIntent"
+      },
+      {
+         "intent":"AMAZON.CancelIntent"
       },
       {
          "intent":"AMAZON.StopIntent"

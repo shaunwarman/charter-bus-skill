@@ -20,6 +20,23 @@ getRandomFact tell me a random story
 getRandomFact tell me a fact
 getRandomFact tell me a random fact
 
+currentChampion champion
+currentChampion who is champion
+currentChampion who is the champion
+currentChampion current champion
+currentChampion who is the current champion
+
+matchupHistory {team} versus {opponent}
+matchupHistory record between {team} and {opponent}
+matchupHistory what is the record of {team} and {opponent}
+matchupHistory what is the record of {team} versus {opponent}
+matchupHistory what is the record between {team} and {opponent}
+matchupHistory score between {team} and {opponent}
+matchupHistory what is the score of {team} and {opponent}
+matchupHistory what is the score of {team} versus {opponent}
+matchupHistory what is the score between {team} and {opponent}
+matchupHistory matchup between {team} and {opponent}
+
 // TODO
 readPost read me a post
 

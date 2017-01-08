@@ -104,6 +104,72 @@
          ]
       },
       {
+         "intent": "bestFinish",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "worstFinish",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "avgFinish",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "pointsForByYear",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            },
+            {
+               "name": "year",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "finishByYear",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            },
+            {
+               "name": "year",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "pointsAgainstByYear",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            },
+            {
+               "name": "year",
+               "type": "string"
+            }
+         ]
+      },
+      {
          "intent": "getRandomFact"
       },
       {

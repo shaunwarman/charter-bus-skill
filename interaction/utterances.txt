@@ -92,13 +92,41 @@ lowWeek what is the low week for {name}
 lowWeek what is the lowest week for {name}
 lowWeek what is the worst week for {name}
 
-// TODO
-readPost read me a post
 
-playPodcast play me a podcast (plays one of our podcasts)
+bestFinish {name} best finish
+bestFinish best finish for {name}
+bestFinish {name} best finish
+bestFinish {name} best place
+bestFinish best finish for {name}
+bestFinish what is the best finish for {name}
+bestFinish what is the highest finish for {name}
 
-findUserStats various player records and statistics (scrape from Ben’s spreadsheet)
+worstFinish {name} worst finish
+worstFinish worst finish for {name}
+worstFinish {name} worst finish
+worstFinish {name} worst place
+worstFinish worst finish for {name}
+worstFinish what is the worst finish for {name}
+worstFinish what is the lowest finish for {name}
 
-draftPick draft order, who drafted who and what overall pick
+avgFinish {name} average finish
+avgFinish average finish for {name}
+avgFinish {name} average finish
+avgFinish {name} average place
+avgFinish average finish for {name}
+avgFinish what is the average finish for {name}
 
-playerProjections feed to roto world or ESPN for projections
+pointsForByYear {name} points in {year}
+pointsForByYear {name} points for {year}
+pointsForByYear {name} points for in {year}
+pointsForByYear {year} points for {name}
+
+pointsAgainstByYear {name} points against {year}
+pointsAgainstByYear {name} points against in {year}
+pointsAgainstByYear {name} points against in the year {year}
+pointsAgainstByYear {year} points against {name}
+
+finishByYear {name} finish in {year}
+finishByYear {name} finish for {year}
+finishByYear {name} place in {year}
+finishByYear {year} finish for {name}

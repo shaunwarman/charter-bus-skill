@@ -7,9 +7,12 @@
     "alexa-sdk": "^1.0.6",
     "charter-bus-stats": "0.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "utterance-to-markdown": "0.0.1"
+  },
   "scripts": {
     "build": "zip -r alexa.zip *",
+    "docs": "./node_modules/utterance-to-markdown/bin/u2m ./interaction/utterances.txt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shaun Warman",

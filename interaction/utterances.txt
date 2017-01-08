@@ -92,7 +92,6 @@ lowWeek what is the low week for {name}
 lowWeek what is the lowest week for {name}
 lowWeek what is the worst week for {name}
 
-
 bestFinish {name} best finish
 bestFinish best finish for {name}
 bestFinish {name} best finish

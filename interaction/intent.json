@@ -1,7 +1,7 @@
 {
    "intents":[
       {
-         "intent":"numberOfChampionships",
+         "intent": "numberOfChampionships",
          "slots":[
             {
                "name": "name",
@@ -10,7 +10,7 @@
          ]
       },
       {
-         "intent":"matchupHistory",
+         "intent": "matchupHistory",
          "slots":[
             {
                "name": "team",
@@ -23,19 +23,100 @@
          ]
       },
       {
-         "intent":"getRandomFact"
+         "intent": "totalRecord",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
       },
       {
-         "intent":"getRandomFact"
+         "intent": "totalPointsAgainst",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
       },
       {
-         "intent":"AMAZON.HelpIntent"
+         "intent": "totalPointsFor",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
       },
       {
-         "intent":"AMAZON.CancelIntent"
+         "intent": "averagePointsForByYear",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
       },
       {
-         "intent":"AMAZON.StopIntent"
+         "intent": "averagePointsForByWeek",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "averagePointsAgainstByYear",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "averagePointsAgainstByWeek",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "highWeek",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "lowWeek",
+         "slots":[
+            {
+               "name": "name",
+               "type": "string"
+            }
+         ]
+      },
+      {
+         "intent": "getRandomFact"
+      },
+      {
+         "intent": "charterBusMotto"
+      },
+      {
+         "intent": "AMAZON.HelpIntent"
+      },
+      {
+         "intent": "AMAZON.CancelIntent"
+      },
+      {
+         "intent": "AMAZON.StopIntent"
       }
    ]
 }

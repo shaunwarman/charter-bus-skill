@@ -37,6 +37,61 @@ matchupHistory what is the score of {team} versus {opponent}
 matchupHistory what is the score between {team} and {opponent}
 matchupHistory matchup between {team} and {opponent}
 
+totalRecord record for {name}
+totalRecord total record for {name}
+totalRecord get record for {name}
+totalRecord get total record for {name}
+
+totalPointsAgainst {name} total points against
+totalPointsAgainst what is the total points against for {name}
+totalPointsAgainst total points against for {name}
+totalPointsAgainst what is the total points against for {name}
+
+totalPointsFor {name} total points for
+totalPointsFor what is the total points for for {name}
+totalPointsFor total points for for {name}
+totalPointsFor what is the total points for for {name}
+
+averagePointsForByYear yearly average points for for {name}
+averagePointsForByYear {name} average points for by year
+averagePointsForByYear what is the average points for by year for {name}
+averagePointsForByYear average points for by year for {name}
+averagePointsForByYear what is the average points for by year for {name}
+
+averagePointsForByWeek weekly average points for for {name}
+averagePointsForByWeek {name} average points for by week
+averagePointsForByWeek what is the average points for by week for {name}
+averagePointsForByWeek average points for by week for {name}
+averagePointsForByWeek what is the average points for by week for {name}
+
+averagePointsAgainstByYear yearly average points against for {name}
+averagePointsAgainstByYear {name} average points against by year
+averagePointsAgainstByYear what is the average points against by year for {name}
+averagePointsAgainstByYear average points against by year for {name}
+averagePointsAgainstByYear what is the average points against by year for {name}
+
+averagePointsAgainstByWeek weekly average points against for {name}
+averagePointsAgainstByWeek {name} average points against by week
+averagePointsAgainstByWeek what is the average points against by week for {name}
+averagePointsAgainstByWeek average points against by week for {name}
+averagePointsAgainstByWeek what is the average points against by week for {name}
+
+highWeek {name} high week
+highWeek high week for {name}
+highWeek {name} best week
+highWeek best week for {name}
+highWeek what is the high week for {name}
+highWeek what is the highest week for {name}
+highWeek what is the best week for {name}
+
+lowWeek {name} low week
+lowWeek low week for {name}
+lowWeek {name} worst week
+lowWeek worst week for {name}
+lowWeek what is the low week for {name}
+lowWeek what is the lowest week for {name}
+lowWeek what is the worst week for {name}
+
 // TODO
 readPost read me a post
 

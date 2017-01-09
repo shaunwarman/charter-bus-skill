@@ -176,6 +176,9 @@
          "intent": "charterBusMotto"
       },
       {
+         "intent": "currentChampion"
+      },
+      {
          "intent": "AMAZON.HelpIntent"
       },
       {

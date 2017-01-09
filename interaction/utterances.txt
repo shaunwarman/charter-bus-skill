@@ -11,6 +11,10 @@ numberOfChampionships number of championships for {name}
 numberOfChampionships how many championships for {name}
 numberOfChampionships how many championships does {name} have
 
+currentChampion current champion
+currentChampion who is the champion
+currentChampion who is the current champion
+
 getRandomFact fact
 getRandomFact story
 getRandomFact random fact
@@ -83,6 +87,7 @@ highWeek best week for {name}
 highWeek what is the high week for {name}
 highWeek what is the highest week for {name}
 highWeek what is the best week for {name}
+highWeek what is the most points for {name} in a week
 
 lowWeek {name} low week
 lowWeek low week for {name}

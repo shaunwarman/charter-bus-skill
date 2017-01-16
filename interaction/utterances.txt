@@ -18,7 +18,9 @@ currentChampion who is the current champion
 getRandomFact fact
 getRandomFact story
 getRandomFact random fact
+getRandomFact a random fact
 getRandomFact random story
+getRandomFact a random story
 getRandomFact tell me a story
 getRandomFact tell me a random story
 getRandomFact tell me a fact
@@ -102,6 +104,7 @@ bestFinish best finish for {name}
 bestFinish {name} best finish
 bestFinish {name} best place
 bestFinish best finish for {name}
+bestFinish what was {name} best finish
 bestFinish what is the best finish for {name}
 bestFinish what is the highest finish for {name}
 
@@ -129,6 +132,7 @@ pointsAgainstByYear {name} points against {year}
 pointsAgainstByYear {name} points against in {year}
 pointsAgainstByYear {name} points against in the year {year}
 pointsAgainstByYear {year} points against {name}
+pointsAgainstByYear how many points against did {name} have in {year}
 
 finishByYear {name} finish in {year}
 finishByYear {name} finish for {year}

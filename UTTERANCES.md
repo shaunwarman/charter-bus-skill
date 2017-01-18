@@ -15,24 +15,29 @@
  - how many championships for {name}
  - how many championships does {name} have
 
-### getRandomFact
-
- - fact
- - story
- - random fact
- - random story
- - tell me a story
- - tell me a random story
- - tell me a fact
- - tell me a random fact
-
 ### currentChampion
 
+ - current champion
+ - who is the champion
+ - who is the current champion
  - champion
  - who is champion
  - who is the champion
  - current champion
  - who is the current champion
+
+### getRandomFact
+
+ - fact
+ - story
+ - random fact
+ - a random fact
+ - random story
+ - a random story
+ - tell me a story
+ - tell me a random story
+ - tell me a fact
+ - tell me a random fact
 
 ### matchupHistory
 
@@ -109,6 +114,7 @@
  - what is the high week for {name}
  - what is the highest week for {name}
  - what is the best week for {name}
+ - what is the most points for {name} in a week
 
 ### lowWeek
 
@@ -127,6 +133,7 @@
  - {name} best finish
  - {name} best place
  - best finish for {name}
+ - what was {name} best finish
  - what is the best finish for {name}
  - what is the highest finish for {name}
 
@@ -162,6 +169,7 @@
  - {name} points against in {year}
  - {name} points against in the year {year}
  - {year} points against {name}
+ - how many points against did {name} have in {year}
 
 ### finishByYear
 

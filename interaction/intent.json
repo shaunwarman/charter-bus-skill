@@ -5,7 +5,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -14,11 +14,11 @@
          "slots":[
             {
                "name": "team",
-               "type": "string"
+               "type": "members"
             },
             {
                "name": "opponent",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -27,7 +27,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -36,7 +36,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -45,7 +45,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -54,7 +54,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -63,7 +63,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -72,7 +72,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -81,7 +81,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -90,7 +90,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -99,7 +99,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -108,7 +108,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -117,7 +117,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -126,7 +126,7 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             }
          ]
       },
@@ -135,11 +135,11 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             },
             {
                "name": "year",
-               "type": "string"
+               "type": "AMAZON.NUMBER"
             }
          ]
       },
@@ -148,11 +148,11 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             },
             {
                "name": "year",
-               "type": "string"
+               "type": "AMAZON.NUMBER"
             }
          ]
       },
@@ -161,11 +161,11 @@
          "slots":[
             {
                "name": "name",
-               "type": "string"
+               "type": "members"
             },
             {
                "name": "year",
-               "type": "string"
+               "type": "AMAZON.NUMBER"
             }
          ]
       },
@@ -177,6 +177,9 @@
       },
       {
          "intent": "currentChampion"
+      },
+      {
+         "intent": "AMAZON.HelpIntent"
       },
       {
          "intent": "AMAZON.CancelIntent"

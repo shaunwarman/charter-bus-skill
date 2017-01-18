@@ -8,8 +8,8 @@
 
 ### numberOfChampionships
 
- - {name} championships
- - {name} number of championships
+ - {name}'s championships
+ - {name}'s number of championships
  - championships for {name}
  - number of championships for {name}
  - how many championships for {name}
@@ -61,14 +61,14 @@
 
 ### totalPointsAgainst
 
- - {name} total points against
+ - {name}'s total points against
  - what is the total points against for {name}
  - total points against for {name}
  - what is the total points against for {name}
 
 ### totalPointsFor
 
- - {name} total points for
+ - {name}'s total points for
  - what is the total points for for {name}
  - total points for for {name}
  - what is the total points for for {name}
@@ -76,7 +76,7 @@
 ### averagePointsForByYear
 
  - yearly average points for for {name}
- - {name} average points for by year
+ - {name}'s average points for by year
  - what is the average points for by year for {name}
  - average points for by year for {name}
  - what is the average points for by year for {name}
@@ -84,7 +84,7 @@
 ### averagePointsForByWeek
 
  - weekly average points for for {name}
- - {name} average points for by week
+ - {name}'s average points for by week
  - what is the average points for by week for {name}
  - average points for by week for {name}
  - what is the average points for by week for {name}
@@ -92,7 +92,7 @@
 ### averagePointsAgainstByYear
 
  - yearly average points against for {name}
- - {name} average points against by year
+ - {name}'s average points against by year
  - what is the average points against by year for {name}
  - average points against by year for {name}
  - what is the average points against by year for {name}
@@ -100,16 +100,16 @@
 ### averagePointsAgainstByWeek
 
  - weekly average points against for {name}
- - {name} average points against by week
+ - {name}'s average points against by week
  - what is the average points against by week for {name}
  - average points against by week for {name}
  - what is the average points against by week for {name}
 
 ### highWeek
 
- - {name} high week
+ - {name}'s high week
  - high week for {name}
- - {name} best week
+ - {name}'s best week
  - best week for {name}
  - what is the high week for {name}
  - what is the highest week for {name}
@@ -118,9 +118,9 @@
 
 ### lowWeek
 
- - {name} low week
+ - {name}'s low week
  - low week for {name}
- - {name} worst week
+ - {name}'s worst week
  - worst week for {name}
  - what is the low week for {name}
  - what is the lowest week for {name}
@@ -128,10 +128,10 @@
 
 ### bestFinish
 
- - {name} best finish
+ - {name}'s best finish
  - best finish for {name}
- - {name} best finish
- - {name} best place
+ - {name}'s best finish
+ - {name}'s best place
  - best finish for {name}
  - what was {name} best finish
  - what is the best finish for {name}
@@ -139,41 +139,41 @@
 
 ### worstFinish
 
- - {name} worst finish
+ - {name}'s worst finish
  - worst finish for {name}
- - {name} worst finish
- - {name} worst place
+ - {name}'s worst finish
+ - {name}'s worst place
  - worst finish for {name}
  - what is the worst finish for {name}
  - what is the lowest finish for {name}
 
 ### avgFinish
 
- - {name} average finish
+ - {name}'s average finish
  - average finish for {name}
- - {name} average finish
- - {name} average place
+ - {name}'s average finish
+ - {name}'s average place
  - average finish for {name}
  - what is the average finish for {name}
 
 ### pointsForByYear
 
- - {name} points in {year}
- - {name} points for {year}
- - {name} points for in {year}
+ - {name}'s points in {year}
+ - {name}'s points for {year}
+ - {name}'s points for in {year}
  - {year} points for {name}
 
 ### pointsAgainstByYear
 
- - {name} points against {year}
- - {name} points against in {year}
- - {name} points against in the year {year}
+ - {name}'s points against {year}
+ - {name}'s points against in {year}
+ - {name}'s points against in the year {year}
  - {year} points against {name}
  - how many points against did {name} have in {year}
 
 ### finishByYear
 
- - {name} finish in {year}
- - {name} finish for {year}
- - {name} place in {year}
+ - {name}'s finish in {year}
+ - {name}'s finish for {year}
+ - {name}'s place in {year}
  - {year} finish for {name}

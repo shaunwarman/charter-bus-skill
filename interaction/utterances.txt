@@ -11,10 +11,6 @@ numberOfChampionships number of championships for {name}
 numberOfChampionships how many championships for {name}
 numberOfChampionships how many championships does {name} have
 
-currentChampion current champion
-currentChampion who is the champion
-currentChampion who is the current champion
-
 getRandomFact fact
 getRandomFact story
 getRandomFact random fact

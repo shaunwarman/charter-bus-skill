@@ -50,7 +50,7 @@
          ]
       },
       {
-         "intent": "averagePointsForByYear",
+         "intent": "avgPointsForByYear",
          "slots":[
             {
                "name": "name",
@@ -59,7 +59,7 @@
          ]
       },
       {
-         "intent": "averagePointsForByWeek",
+         "intent": "avgPointsForByWeek",
          "slots":[
             {
                "name": "name",
@@ -68,7 +68,7 @@
          ]
       },
       {
-         "intent": "averagePointsAgainstByYear",
+         "intent": "avgPointsAgainstByYear",
          "slots":[
             {
                "name": "name",
@@ -77,7 +77,7 @@
          ]
       },
       {
-         "intent": "averagePointsAgainstByWeek",
+         "intent": "avgPointsAgainstByWeek",
          "slots":[
             {
                "name": "name",

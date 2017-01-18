@@ -4,8 +4,8 @@ charterBusMotto the charter bus motto
 charterBusMotto what is the charter bus motto
 charterBusMotto tell me the charter bus motto
 
-numberOfChampionships {name}'s championships
-numberOfChampionships {name}'s number of championships
+numberOfChampionships {name} championships
+numberOfChampionships {name} number of championships
 numberOfChampionships championships for {name}
 numberOfChampionships number of championships for {name}
 numberOfChampionships how many championships for {name}
@@ -44,93 +44,93 @@ totalRecord total record for {name}
 totalRecord get record for {name}
 totalRecord get total record for {name}
 
-totalPointsAgainst {name}'s total points against
+totalPointsAgainst {name} total points against
 totalPointsAgainst what is the total points against for {name}
 totalPointsAgainst total points against for {name}
 totalPointsAgainst what is the total points against for {name}
 
-totalPointsFor {name}'s total points for
+totalPointsFor {name} total points for
 totalPointsFor what is the total points for for {name}
 totalPointsFor total points for for {name}
 totalPointsFor what is the total points for for {name}
 
-averagePointsForByYear yearly average points for for {name}
-averagePointsForByYear {name}'s average points for by year
-averagePointsForByYear what is the average points for by year for {name}
-averagePointsForByYear average points for by year for {name}
-averagePointsForByYear what is the average points for by year for {name}
+avgPointsForByYear yearly average points for for {name}
+avgPointsForByYear {name} average points for by year
+avgPointsForByYear what is the average points for by year for {name}
+avgPointsForByYear average points for by year for {name}
+avgPointsForByYear what is the average points for by year for {name}
 
-averagePointsForByWeek weekly average points for for {name}
-averagePointsForByWeek {name}'s average points for by week
-averagePointsForByWeek what is the average points for by week for {name}
-averagePointsForByWeek average points for by week for {name}
-averagePointsForByWeek what is the average points for by week for {name}
+avgPointsForByWeek weekly average points for for {name}
+avgPointsForByWeek {name} average points for by week
+avgPointsForByWeek what is the average points for by week for {name}
+avgPointsForByWeek average points for by week for {name}
+avgPointsForByWeek what is the average points for by week for {name}
 
-averagePointsAgainstByYear yearly average points against for {name}
-averagePointsAgainstByYear {name}'s average points against by year
-averagePointsAgainstByYear what is the average points against by year for {name}
-averagePointsAgainstByYear average points against by year for {name}
-averagePointsAgainstByYear what is the average points against by year for {name}
+avgPointsAgainstByYear yearly average points against for {name}
+avgPointsAgainstByYear {name} average points against by year
+avgPointsAgainstByYear what is the average points against by year for {name}
+avgPointsAgainstByYear average points against by year for {name}
+avgPointsAgainstByYear what is the average points against by year for {name}
 
-averagePointsAgainstByWeek weekly average points against for {name}
-averagePointsAgainstByWeek {name}'s average points against by week
-averagePointsAgainstByWeek what is the average points against by week for {name}
-averagePointsAgainstByWeek average points against by week for {name}
-averagePointsAgainstByWeek what is the average points against by week for {name}
+avgPointsAgainstByWeek weekly average points against for {name}
+avgPointsAgainstByWeek {name} average points against by week
+avgPointsAgainstByWeek what is the average points against by week for {name}
+avgPointsAgainstByWeek average points against by week for {name}
+avgPointsAgainstByWeek what is the average points against by week for {name}
 
-highWeek {name}'s high week
+highWeek {name} high week
 highWeek high week for {name}
-highWeek {name}'s best week
+highWeek {name} best week
 highWeek best week for {name}
 highWeek what is the high week for {name}
 highWeek what is the highest week for {name}
 highWeek what is the best week for {name}
 highWeek what is the most points for {name} in a week
 
-lowWeek {name}'s low week
+lowWeek {name} low week
 lowWeek low week for {name}
-lowWeek {name}'s worst week
+lowWeek {name} worst week
 lowWeek worst week for {name}
 lowWeek what is the low week for {name}
 lowWeek what is the lowest week for {name}
 lowWeek what is the worst week for {name}
 
-bestFinish {name}'s best finish
+bestFinish {name} best finish
 bestFinish best finish for {name}
-bestFinish {name}'s best finish
-bestFinish {name}'s best place
+bestFinish {name} best finish
+bestFinish {name} best place
 bestFinish best finish for {name}
 bestFinish what was {name} best finish
 bestFinish what is the best finish for {name}
 bestFinish what is the highest finish for {name}
 
-worstFinish {name}'s worst finish
+worstFinish {name} worst finish
 worstFinish worst finish for {name}
-worstFinish {name}'s worst finish
-worstFinish {name}'s worst place
+worstFinish {name} worst finish
+worstFinish {name} worst place
 worstFinish worst finish for {name}
 worstFinish what is the worst finish for {name}
 worstFinish what is the lowest finish for {name}
 
-avgFinish {name}'s average finish
+avgFinish {name} average finish
 avgFinish average finish for {name}
-avgFinish {name}'s average finish
-avgFinish {name}'s average place
+avgFinish {name} average finish
+avgFinish {name} average place
 avgFinish average finish for {name}
 avgFinish what is the average finish for {name}
 
-pointsForByYear {name}'s points in {year}
-pointsForByYear {name}'s points for {year}
-pointsForByYear {name}'s points for in {year}
+pointsForByYear {name} points in {year}
+pointsForByYear {name} points for {year}
+pointsForByYear {name} points for in {year}
 pointsForByYear {year} points for {name}
 
-pointsAgainstByYear {name}'s points against {year}
-pointsAgainstByYear {name}'s points against in {year}
-pointsAgainstByYear {name}'s points against in the year {year}
+pointsAgainstByYear {name} points against {year}
+pointsAgainstByYear {name} points against in {year}
+pointsAgainstByYear {name} points against in the year {year}
 pointsAgainstByYear {year} points against {name}
 pointsAgainstByYear how many points against did {name} have in {year}
 
-finishByYear {name}'s finish in {year}
-finishByYear {name}'s finish for {year}
-finishByYear {name}'s place in {year}
+finishByYear {name} finish in {year}
+finishByYear {name} finish for {year}
+finishByYear {name} place in {year}
 finishByYear {year} finish for {name}

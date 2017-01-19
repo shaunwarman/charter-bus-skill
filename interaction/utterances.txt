@@ -119,10 +119,10 @@ avgFinish {name} average place
 avgFinish average finish for {name}
 avgFinish what is the average finish for {name}
 
-pointsForByYear {name} points in {year}
 pointsForByYear {name} points for {year}
 pointsForByYear {name} points for in {year}
 pointsForByYear {year} points for {name}
+pointsForByYear {name} points in the year {year}
 
 pointsAgainstByYear {name} points against {year}
 pointsAgainstByYear {name} points against in {year}

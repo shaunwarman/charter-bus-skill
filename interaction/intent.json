@@ -170,6 +170,9 @@
          ]
       },
       {
+         "intent": "noData"
+      },
+      {
          "intent": "getRandomFact"
       },
       {

@@ -5,7 +5,7 @@
   "main": "alexa.js",
   "dependencies": {
     "alexa-sdk": "^1.0.6",
-    "charter-bus-stats": "^0.0.3"
+    "charter-bus-stats": "0.0.5"
   },
   "devDependencies": {
     "utterance-to-markdown": "0.0.1"

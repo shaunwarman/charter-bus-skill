@@ -134,3 +134,4 @@ finishByYear {name} finish in {year}
 finishByYear {name} finish for {year}
 finishByYear {name} place in {year}
 finishByYear {year} finish for {name}
+finishByYear what place did {name} finish in {year}
